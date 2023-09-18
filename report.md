@@ -15,3 +15,4 @@ Plugin affecté : wpCentral
 Version du plugin :  ≤ 1.5.0
 CVSS Score : 8.8</li>
 
+test
